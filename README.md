@@ -1,4 +1,4 @@
-## Hi there 👋 also i’m gay
+## Hi there 👋
 
 <!--
 **Mancarbonelus/mancarbonelus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: My other site mancarbonelus.carrd.co
 - 😄 Pronouns: im boi
 - ⚡ Fun fact: I started my music career in May, released my debut EP TYRBO on June 2 2025
---> Thanks for reading!
+--> Thanks for reading!Also i’m gay
